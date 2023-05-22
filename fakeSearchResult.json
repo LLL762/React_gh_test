@@ -1,0 +1,32 @@
+[
+  {
+    "id": 40,
+    "name": "Borderlands 3",
+    "mainImg": "https://cdn.akamai.steamstatic.com/steam/apps/397540/capsule_231x87.jpg?t=1657214217",
+    "price": { "base": 75, "current": 35 }
+  },
+  {
+    "id": 41,
+    "name": "Borderlands 2",
+    "mainImg": "https://cdn.akamai.steamstatic.com/steam/apps/49520/capsule_231x87.jpg?t=1645058069",
+    "price": { "base": 75, "current": 35 }
+  },
+  {
+    "id": 42,
+    "name": "Borderlands 3: Bounty of Blood",
+    "mainImg": "https://cdn.akamai.steamstatic.com/steam/apps/1233060/capsule_231x87.jpg?t=1593137005",
+    "price": { "base": 30, "current": 14.99 }
+  },
+  {
+    "id": 43,
+    "name": "Borderlands 3: Moxxi's Heist of the Handsome Jackpot",
+    "mainImg": "https://cdn.akamai.steamstatic.com/steam/apps/1232256/capsule_231x87.jpg?t=1586386310",
+    "price": { "base": 30, "current": 14.99 }
+  },
+  {
+    "id": 44,
+    "name": "Borderlands 3: Moze Final Form Pack",
+    "mainImg": "https://cdn.akamai.steamstatic.com/steam/apps/1396472/capsule_231x87.jpg?t=1604930003",
+    "price": { "base": 30, "current": 14.99 }
+  }
+]

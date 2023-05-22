@@ -1,0 +1,17 @@
+{
+  "title": "Se connecter",
+  "form": {
+    "username": "Se connecter avec un identifiant",
+    "password": "Mot de passe",
+    "rememberMe": "Se souvenir de moi",
+    "rememberMeToolTip": "La prochaine fois que vous lancerez Steam, vous n'aurez pas besoin d'entrez vos identifiants",
+    "logIn": "Se connecter",
+    "help": "J'ai besoin d'aide pour accèder à mon compte !",
+    "qrCode": {
+      "title": "Ou avec un Qr code",
+      "textL": "Utilisez",
+      "textM": "l'application mobile Steam",
+      "textR": "pour vous connecter avec un code QR"
+    }
+  }
+}

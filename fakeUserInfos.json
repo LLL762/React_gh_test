@@ -1,0 +1,18 @@
+{
+  "notifications": {
+    "comment": 0,
+    "newItems": 0,
+    "invitations": 0,
+    "gifts": 0,
+    "messages": 0
+  },
+  "username": "admin",
+  "personaName": "persona",
+  "appInstalled": "true",
+  "lang": "en",
+  "credits": {
+    "amount": "408",
+    "currency": "euro",
+    "currencySymbol": "€"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "nav": {
+    "store": {
+      "value": "Magasin",
+      "items": {
+        "home": "Accueil",
+        "discovery": "Liste de découvertes",
+        "wishlist": "Liste de souhaits",
+        "pointShop": "Boutique de points",
+        "news": "Actualités",
+        "stats": "Statistiques"
+      }
+    },
+    "community": {
+      "value": "Communauté",
+      "items": {
+        "home": "Accueil",
+        "discussions": "Discussions",
+        "workshop": "Workshop",
+        "market": "Marché",
+        "broadcasts": "Diffusions"
+      }
+    },
+    "about": {
+      "value": "À propos"
+    },
+    "support": {
+      "value": "Support"
+    },
+    "user": {
+      "value": "Vous et vos contacts",
+      "items": {
+        "activity": "Activité",
+        "profile": "Profil",
+        "friends": "Contacts",
+        "games": "Jeux",
+        "groups": "Groupes",
+        "content": "Contenus",
+        "badges": "Badges"
+      }
+    }
+  },
+  "action": {
+    "install": "Installer Steam",
+    "downloadIconAlt": "Icon téléchargement",
+    "login": "Connexion",
+    "lang": {
+      "title": "Langues",
+      "en": "Anglais",
+      "fr": "Français"
+    },
+    "notifications": {
+      "value": "Notifications",
+      "icon": {
+        "toolTip": "nouvelles notifications"
+      },
+      "comments": "nouveaux commentaires",
+      "inventory": "nouveaux items dans votre inventaire",
+      "invitations": "nouvelles invitations",
+      "gifts": "nouveaux cadeaux",
+      "messages": "messages non lus"
+    },
+    "account": {
+      "profile": "Afficher le profil",
+      "details": "Détails du compte",
+      "logout": "Déconnexion",
+      "settings": "Paramètres",
+      "lang": "Changer la langue"
+    }
+  },
+  "desktopView": "Voir version ordi. du site",
+  "userInfos": {
+    "wallet": "Portemonnaie",
+    "cart": "Panier",
+    "avatarAlt": "Votre avatar"
+  },
+  "footer": {
+    "main": "Tous droits réservés. Toutes les marques commerciales sont la propriété de leurs titulaires aux États-Unis et dans d'autres pays. Politique de protection de la vie privée",
+    "privacy": "Politique de protection de la vie privée",
+    "legal": " Mentions légales",
+    "subAgreement": "Accord de souscription Steam",
+    "refunds": "Remboursements"
+  },
+  "langModal": {
+    "title": "Changer la langue",
+    "cancel": "Annuler"
+  }
+}
