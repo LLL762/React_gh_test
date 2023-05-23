@@ -1,0 +1,17 @@
+{
+  "storeMenu": {
+    "value": "Votre magasin"
+  },
+  "newsDiscoveries": {
+    "value": "Nouveaux et à découvrir"
+  },
+  "categories": {
+    "value": "Catégories"
+  },
+  "pointShop": "Boutique des points",
+  "news": "Actualités",
+  "labs": "Labs",
+  "search": "rechercher",
+  "searchTooltip": "",
+  "wishList": "Liste de souhaits"
+}
