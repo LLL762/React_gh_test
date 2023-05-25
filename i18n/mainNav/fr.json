@@ -1,12 +1,123 @@
 {
   "storeMenu": {
-    "value": "Votre magasin"
+    "value": "Votre magasin",
+    "home": "Acceuil",
+    "recommendations": "Recommandations de la communauté",
+    "recentViews": "Vus récemment",
+    "curators": "Groupes de curation Steam"
   },
   "newsDiscoveries": {
-    "value": "Nouveaux et à découvrir"
+    "value": "Nouveaux et à découvrir",
+    "replay": " Rétrospective Steam 2022",
+    "topSellers": "Meilleures ventes",
+    "mostPlayed": "Les plus populaires",
+    "news": "Nouveautés et tendances",
+    "specialOffer": "Offres spéciales",
+    "recentlyUpdated": "Mis à jour récemment",
+    "upcoming": "Sorties attendues"
   },
   "categories": {
-    "value": "Catégories"
+    "value": "Catégories",
+    "special": {
+      "value": "Sections spéciales",
+      "f2p": "Free-to-play",
+      "demos": "Démos",
+      "earlyAccess": "Accès anticipé",
+      "steamdeck": "Steam Deck",
+      "greatOnDeck": "Parfaits pour Steam Deck",
+      "controller": "Compatibilité avec une manette",
+      "remote": "Remote Play",
+      "vrTitle": "VR",
+      "vrHardWare": "Matériel VR",
+      "sofware": "Logiciels",
+      "soundtracks": "Bandes-son",
+      "macOS": "macOS",
+      "steamLinux": "SteamOS + Linux",
+      "pcCafe": "Pour PC Café"
+    },
+    "genres": {
+      "value": "Genres",
+      "action": {
+        "value": "Action",
+        "arcade": "Arcade et rythme",
+        "fighting": "Combat et arts martiaux",
+        "firstPersonShooter": "Tir à la 1ʳᵉ personne",
+        "hackSlash": "Hack 'n' slash",
+        "platForm": "Plateforme et parcours",
+        "thirdPersonShooter": "Tir à la 3ᵉ personne",
+        "shmup": "Shoot 'Em Up"
+      },
+      "adventure": {
+        "value": "Aventure",
+        "adventureRpg": "Aventure et RPG",
+        "casual": "Casual",
+        "hiddenObj": "Objets cachés",
+        "metroidvania": "Metroidvania",
+        "puzzle": "Casse-tête",
+        "storyRich": "Riche en récits",
+        "vn": "Roman graphique"
+      },
+      "rolePlaying": {
+        "value": "RPG",
+        "actionRpg": "Action de style RPG",
+        "adventure": "Aventure et RPG",
+        "jRPG": "RPG japonais",
+        "partyBased": "RPG en groupe",
+        "rogueLike": "Roguelike et roguelite",
+        "strategyRPG": "RPG de stratégie",
+        "turnBased": "RPG au tour par tour"
+      },
+      "simulation": {
+        "value": "Simulation",
+        "buildingAutomation": "Construction et automatisation",
+        "dating": "Rencontres",
+        "farmCraft": "Ferme et artisanat",
+        "hobbyJob": "Loisirs et professions",
+        "lifeImmersive": "Sim. immersive et de vie",
+        "sandboxPhysics": "Bac à sable et simulation physique",
+        "spaceFlight": "Vol et espace"
+      },
+      "strategy": {
+        "value": "Stratégie",
+        "cardBoard": "Carte et plateau",
+        "citySettlement": "Ville et colonie",
+        "grand4X": "Stratégie complexe et 4X",
+        "military": "Stratégie militaire",
+        "rts": "Stratégie en temps réel",
+        "td": "Défenses de tours",
+        "turnBased": "Stratégie au tour par tour"
+      },
+      "sportRacing": {
+        "value": "Sport et course",
+        "allSports": "Tous les sports",
+        "fishingHunting": "Pêche et chasse",
+        "individualSports": "Sport individuel",
+        "racing": "Course",
+        "racingSim": "Simulation de course",
+        "sportSim": "Simulation de sport",
+        "teamSports": "Sport d'équipe"
+      }
+    },
+    "themes": {
+      "value": "Thèmes",
+      "anime": "Anime",
+      "horror": "Horreur",
+      "mysteryDetective": "Mystère et détective",
+      "openWorld": "Monde ouvert",
+      "sciFiCyberpunk": "Science-fiction et cyberpunk",
+      "space": "Espace",
+      "survival": "Survie"
+    },
+    "playerSupport": {
+      "value": "Modes de jeu",
+      "coop": "Coopération",
+      "lan": "Réseau local",
+      "localParty": "Local et en groupe",
+      "mmo": "MMO",
+      "multiplayer": "Multijoueur",
+      "onlineCompetitive": "Compétitif en ligne",
+      "singleplayer": "Solo"
+    }
   },
   "pointShop": "Boutique des points",
   "news": "Actualités",
